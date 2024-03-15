@@ -1,10 +1,10 @@
-import java.util.date;
+import java.util.Date;
 public class ds {
 
     public static void main(String[] args) {
         System.out.println("This is java program");
         System.out.println("Output from java program");
-        System.out.println(new date());
+        System.out.println(new Date());
         System.out.println("Hello");
     }
 }
